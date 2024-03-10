@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! Nice to see you 👋
+
+welcome to my page
+i'm Moon, I want to be the best Data analyst, Data scientist
 
 <!--
 **moongiseong/moongiseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Things I code with
 <img src="https://img.shields.io/badge/ChatGPT-red?style=for-the-badge&logo=&logoColor=F37626"> <img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/jupyter-1E5397?style=for-the-badge&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/tableau-F7DF1E?style=for-the-badge&logo=tableau&logoColor=E97627"> 
 <img src="https://img.shields.io/badge/selenium-007396?style=for-the-badge&logo=selenium&logoColor=21B352"> <img src="https://img.shields.io/badge/scikitlearn-purple?style=for-the-badge&logo=scikitlearn&logoColor=FFB3C7"> 
