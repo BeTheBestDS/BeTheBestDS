@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/ChatGPT-red?style=for-the-badge&logo=&logoColor=F37626"> <img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/jupyter-1E5397?style=for-the-badge&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/tableau-F7DF1E?style=for-the-badge&logo=tableau&logoColor=E97627"> 
+<img src="https://img.shields.io/badge/selenium-007396?style=for-the-badge&logo=selenium&logoColor=21B352"> <img src="https://img.shields.io/badge/scikitlearn-purple?style=for-the-badge&logo=scikitlearn&logoColor=FFB3C7"> 
+<img src="https://img.shields.io/badge/pandas-orande?style=for-the-badge&logo=pandas&logoColor=150458"> <img src="https://img.shields.io/badge/numpy-FFB3C7?style=for-the-badge&logo=numpy&logoColor=013243">
